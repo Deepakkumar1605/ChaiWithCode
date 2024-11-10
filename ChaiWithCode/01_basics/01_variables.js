@@ -3,6 +3,7 @@ let accountEmail = "dutta.12@gmail.com";
 var accountPassword = "2455@ssd";
 accountCity = "jajpur";
 let accountState;
+myName = "Deepak Kumar Dutta"
 
 // accountId = 5665656
 
@@ -18,6 +19,7 @@ console.table([
   accountPassword,
   accountCity,
   accountState,
+  myName
 ]);
   
 
